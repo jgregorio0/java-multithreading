@@ -9,11 +9,17 @@
     <packaging>pom</packaging>
     <version>1.0</version>
     <modules>
-        <module>first-threads</module>
         <module>thread-fundamentals</module>
         <module>thread-optimization</module>
-        <module>data-sharing</module>
         <module>thread-data-sharing</module>
+        <module>thread-metrics</module>
+        <module>thread-deadlock</module>
+        <module>thread-lock-advance</module>
+        <module>thread-lock</module>
+        <module>inter-thread-communication</module>
+        <module>lock-free</module>
+        <module>data-sharing</module>
+        <module>semaphore</module>
     </modules>
 
     <properties>
